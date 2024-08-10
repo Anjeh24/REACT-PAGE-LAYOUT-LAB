@@ -1,0 +1,38 @@
+.p1 {
+    margin: 10px;
+    border: 2px, solid, red;
+}
+
+.searchbar {
+    margin: 10px;
+    border: 2px, solid, green;
+}
+
+.header1 {
+    margin: 10px;
+    border: 2px, solid, blue;
+}
+
+.homepagediv {
+    border: 2px, solid, gold;
+}
+
+p {
+    margin: 10px;
+    border: 1px, solid, gray;
+}
+
+.p2 {
+    margin: 10px;
+    border: 1px, solid, gray;
+    border-radius: 5%;
+}
+
+.employeepgdiv {
+    border: 2px, solid, brown;
+}
+
+.maindiv {
+    border: 2px, solid, black;
+    display: flex;
+}
